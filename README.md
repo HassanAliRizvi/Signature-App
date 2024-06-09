@@ -1,6 +1,6 @@
 # Signature
 
-[Signature App](https://website-name.com) is an online canvas where users can draw according to their favorite color and background
+[Signature App](https://hassanalirizvi.github.io/Signature-App/) is an online canvas where users can draw according to their favorite color and background
 
 ## Installation
 
