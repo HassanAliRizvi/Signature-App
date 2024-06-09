@@ -4,7 +4,7 @@
 
 ## Installation
 
-Use the git clone command to install relevant file.
+Use the git clone command to install the relevant files.
 
 ```bash
 git clone https://github.com/HassanAliRizvi/Signature-App
